@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="4-Behavioral_Design" Database="" Version="10.0.0">
+  <Project Name="1-1_Chain_of_Responsibility" Path="1-1_Chain_of_Responsibility/1-1_Chain_of_Responsibility.project" Active="No"/>
+  <Project Name="2-1_Command" Path="1-2_Command/1-2_Command.project" Active="No"/>
+  <Project Name="2-2_command_exp" Path="2-2_command_exp/2-2_command_exp.project" Active="No"/>
+  <Project Name="3-1_Iterator" Path="3-1_Iterator/3-1_Iterator.project" Active="No"/>
+  <Project Name="4-1_Mediator" Path="4-1_Mediator/4-1_Mediator.project" Active="No"/>
+  <Project Name="4-2_mediator_ex" Path="practice/practice.project" Active="No"/>
+  <Project Name="4-3_mediator_air_traffic" Path="4-3_mediator_air_traffic/4-3_mediator_air_traffic.project" Active="No"/>
+  <Project Name="5-observer" Path="5-observer/5-observer.project" Active="No"/>
+  <Project Name="5-1_observerexample" Path="practiceesss/practiceesss.project" Active="No"/>
+  <Project Name="6-template_object" Path="eex/eex.project" Active="No"/>
+  <Project Name="7-state" Path="7-state/7-state.project" Active="No"/>
+  <Project Name="8-Strategy" Path="8-Strategy/8-Strategy.project" Active="No"/>
+  <Project Name="9-visitor" Path="9-visitor/9-visitor.project" Active="No"/>
+  <Project Name="4-4" Path="ppp/ppp.project" Active="No"/>
+  <Project Name="dsdsd" Path="dsdsd/dsdsd.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Chain_of_Responsibility" ConfigName="Debug"/>
+      <Project Name="2-1_Command" ConfigName="Debug"/>
+      <Project Name="2-2_command_exp" ConfigName="Debug"/>
+      <Project Name="3-1_Iterator" ConfigName="Debug"/>
+      <Project Name="4-1_Mediator" ConfigName="Debug"/>
+      <Project Name="4-2_mediator_ex" ConfigName="Debug"/>
+      <Project Name="4-3_mediator_air_traffic" ConfigName="Debug"/>
+      <Project Name="5-observer" ConfigName="Debug"/>
+      <Project Name="5-1_observerexample" ConfigName="Debug"/>
+      <Project Name="6-template_object" ConfigName="Debug"/>
+      <Project Name="7-state" ConfigName="Debug"/>
+      <Project Name="8-Strategy" ConfigName="Debug"/>
+      <Project Name="9-visitor" ConfigName="Debug"/>
+      <Project Name="4-4" ConfigName="Debug"/>
+      <Project Name="dsdsd" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_Chain_of_Responsibility" ConfigName="Release"/>
+      <Project Name="2-1_Command" ConfigName="Release"/>
+      <Project Name="2-2_command_exp" ConfigName="Release"/>
+      <Project Name="3-1_Iterator" ConfigName="Release"/>
+      <Project Name="4-1_Mediator" ConfigName="Release"/>
+      <Project Name="4-2_mediator_ex" ConfigName="Release"/>
+      <Project Name="4-3_mediator_air_traffic" ConfigName="Release"/>
+      <Project Name="5-observer" ConfigName="Release"/>
+      <Project Name="5-1_observerexample" ConfigName="Release"/>
+      <Project Name="6-template_object" ConfigName="Release"/>
+      <Project Name="7-state" ConfigName="Release"/>
+      <Project Name="8-Strategy" ConfigName="Release"/>
+      <Project Name="9-visitor" ConfigName="Release"/>
+      <Project Name="4-4" ConfigName="Release"/>
+      <Project Name="dsdsd" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

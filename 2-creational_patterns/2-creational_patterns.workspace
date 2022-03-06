@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="2-creational_patterns" Database="" Version="10.0.0">
+  <Project Name="1-2_using_factory" Path="1-2_using_factory/1-2_using_factory.project" Active="No"/>
+  <Project Name="1-3_vehicle_factory" Path="1-3_vehicle_factory/1-3_vehicle_factory.project" Active="No"/>
+  <Project Name="1-3_animal_factory" Path="1-3_animal_factory/1-3_animal_factory.project" Active="No"/>
+  <Project Name="1-4_abstract_factory" Path="1-4_abstract_factory/1-4_abstract_factory.project" Active="No"/>
+  <Project Name="1-5_movies_abstract_factory" Path="1-5_movies_abstract_factory/1-5_movies_abstract_factory.project" Active="No"/>
+  <Project Name="1-7_Builder" Path="1-7_Builder/1-7_Builder.project" Active="No"/>
+  <Project Name="1-1_problem_to_use_factory" Path="1-1_problem_to_use_factory/1-1_problem_to_use_factory.project" Active="No"/>
+  <Project Name="1-9_prototype" Path="1-9_prototype/1-9_prototype.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_problem_to_use_factory" ConfigName="Debug"/>
+      <Project Name="1-2_using_factory" ConfigName="Debug"/>
+      <Project Name="1-3_vehicle_factory" ConfigName="Debug"/>
+      <Project Name="1-3_animal_factory" ConfigName="Debug"/>
+      <Project Name="1-4_abstract_factory" ConfigName="Debug"/>
+      <Project Name="1-5_movies_abstract_factory" ConfigName="Debug"/>
+      <Project Name="1-6_problem_to_use_Singleton " ConfigName="Debug"/>
+      <Project Name="1-7_use_Singleton " ConfigName="Debug"/>
+      <Project Name="1-6_problem_to_use_Singleton" ConfigName="Debug"/>
+      <Project Name="1-7_Builder" ConfigName="Debug"/>
+      <Project Name="1-8_massive_builed_project" ConfigName="Debug"/>
+      <Project Name="praticesese" ConfigName="Debug"/>
+      <Project Name="1-9_prototype" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_problem_to_use_factory" ConfigName="Release"/>
+      <Project Name="1-2_using_factory" ConfigName="Release"/>
+      <Project Name="1-3_vehicle_factory" ConfigName="Release"/>
+      <Project Name="1-3_animal_factory" ConfigName="Release"/>
+      <Project Name="1-4_abstract_factory" ConfigName="Release"/>
+      <Project Name="1-5_movies_abstract_factory" ConfigName="Release"/>
+      <Project Name="1-6_problem_to_use_Singleton " ConfigName="Release"/>
+      <Project Name="1-7_use_Singleton " ConfigName="Release"/>
+      <Project Name="1-6_problem_to_use_Singleton" ConfigName="Release"/>
+      <Project Name="1-7_Builder" ConfigName="Release"/>
+      <Project Name="1-8_massive_builed_project" ConfigName="Release"/>
+      <Project Name="praticesese" ConfigName="Release"/>
+      <Project Name="1-9_prototype" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

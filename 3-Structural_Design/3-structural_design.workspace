@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="3-structural_design" Database="" Version="10.0.0">
+  <Project Name="1-2_adapter_exm" Path="1-2_adapter_exm/1-2_adapter_exm.project" Active="No"/>
+  <Project Name="1-3_adapter_exm" Path="1-3_adapter_exm/1-3_adapter_exm.project" Active="No"/>
+  <Project Name="1-4_adabter_media_player" Path="1-4_adabter_media_player/1-4_adabter_media_player.project" Active="No"/>
+  <Project Name="2-1_bridge" Path="2-1_bridge/2-1_bridge.project" Active="No"/>
+  <Project Name="2-2_bridge_color" Path="2-2_bridge_color/2-2_bridge_color.project" Active="No"/>
+  <Project Name="3-1_composite" Path="3-1_composite/3-1_composite.project" Active="No"/>
+  <Project Name="3-1_1_composite" Path="pp/pp.project" Active="No"/>
+  <Project Name="4-1_Decorator" Path="4-1_Decorator/4-1_Decorator.project" Active="No"/>
+  <Project Name="5-1_Facade" Path="5-1_Facade/5-1_Facade.project" Active="No"/>
+  <Project Name="6-1_flyewight" Path="6-1_flyewight/6-1_flyewight.project" Active="No"/>
+  <Project Name="6-2_example_flywight" Path="6-2_example_flywight/6-2_example_flywight.project" Active="No"/>
+  <Project Name="6-3_flywight_vs_selington" Path="6-3_flywight_vs_selington/6-3_flywight_vs_selington.project" Active="No"/>
+  <Project Name="7-1_Proxy" Path="7-1_Proxy/7-1_Proxy.project" Active="No"/>
+  <Project Name="4-2_decorater_burgers" Path="practicess/practicess.project" Active="No"/>
+  <Project Name="ppp" Path="ppp/ppp.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-2_adapter_exm" ConfigName="Debug"/>
+      <Project Name="1-3_adapter_exm" ConfigName="Debug"/>
+      <Project Name="1-4_adabter_media_player" ConfigName="Debug"/>
+      <Project Name="2-1_bridge" ConfigName="Debug"/>
+      <Project Name="2-2_bridge_color" ConfigName="Debug"/>
+      <Project Name="3-1_composite" ConfigName="Debug"/>
+      <Project Name="3-1_1_composite" ConfigName="Debug"/>
+      <Project Name="4-1_Decorator" ConfigName="Debug"/>
+      <Project Name="5-1_Facade" ConfigName="Debug"/>
+      <Project Name="6-1_flyewight" ConfigName="Debug"/>
+      <Project Name="6-2_example_flywight" ConfigName="Debug"/>
+      <Project Name="6-3_flywight_vs_selington" ConfigName="Debug"/>
+      <Project Name="7-1_Proxy" ConfigName="Debug"/>
+      <Project Name="4-2_decorater_burgers" ConfigName="Debug"/>
+      <Project Name="ppp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-2_adapter_exm" ConfigName="Release"/>
+      <Project Name="1-3_adapter_exm" ConfigName="Release"/>
+      <Project Name="1-4_adabter_media_player" ConfigName="Release"/>
+      <Project Name="2-1_bridge" ConfigName="Release"/>
+      <Project Name="2-2_bridge_color" ConfigName="Release"/>
+      <Project Name="3-1_composite" ConfigName="Release"/>
+      <Project Name="3-1_1_composite" ConfigName="Release"/>
+      <Project Name="4-1_Decorator" ConfigName="Release"/>
+      <Project Name="5-1_Facade" ConfigName="Release"/>
+      <Project Name="6-1_flyewight" ConfigName="Release"/>
+      <Project Name="6-2_example_flywight" ConfigName="Release"/>
+      <Project Name="6-3_flywight_vs_selington" ConfigName="Release"/>
+      <Project Name="7-1_Proxy" ConfigName="Release"/>
+      <Project Name="4-2_decorater_burgers" ConfigName="Release"/>
+      <Project Name="ppp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="1-princple_and_strategy" Database="" Version="10.0.0">
+  <Project Name="1-1_interface_using_model" Path="1-interface_using_model/1-interface_using_model.project" Active="No"/>
+  <Project Name="1-2_delegating_principle" Path="1-2_delegating_principle/1-2_delegating_principle.project" Active="No"/>
+  <Project Name="1-3_the_open_closed_principle" Path="1-3_the_open_closed_principle/1-3_the_open_closed_principle.project" Active="No"/>
+  <Project Name="1-4_Liskov_Substitution_Principle" Path="1-4_Liskov_Substitution_Principle/1-4_Liskov_Substitution_Principle.project" Active="No"/>
+  <Project Name="1-5_composition" Path="1-5_composition/1-5_composition.project" Active="No"/>
+  <Project Name="1-6_Interface_Segregation_Principle" Path="1-6_Interface_Segregation_Principle/1-6_Interface_Segregation_Principle.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_interface_using_model" ConfigName="Debug"/>
+      <Project Name="1-2_delegating_principle" ConfigName="Debug"/>
+      <Project Name="1-3_the_open_closed_principle" ConfigName="Debug"/>
+      <Project Name="1-4_Liskov_Substitution_Principle" ConfigName="Debug"/>
+      <Project Name="1-5_composition" ConfigName="Debug"/>
+      <Project Name="1-6_Interface_Segregation_Principle" ConfigName="Debug"/>
+      <Project Name="1-7_Dependency_Inversion_Principle" ConfigName="Debug"/>
+      <Project Name="1-8_Single_Responsibility_Principle" ConfigName="Debug"/>
+      <Project Name="practiceeee" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-1_interface_using_model" ConfigName="Release"/>
+      <Project Name="1-2_delegating_principle" ConfigName="Release"/>
+      <Project Name="1-3_the_open_closed_principle" ConfigName="Release"/>
+      <Project Name="1-4_Liskov_Substitution_Principle" ConfigName="Release"/>
+      <Project Name="1-5_composition" ConfigName="Release"/>
+      <Project Name="1-6_Interface_Segregation_Principle" ConfigName="Release"/>
+      <Project Name="1-7_Dependency_Inversion_Principle" ConfigName="Release"/>
+      <Project Name="1-8_Single_Responsibility_Principle" ConfigName="Release"/>
+      <Project Name="practiceeee" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
